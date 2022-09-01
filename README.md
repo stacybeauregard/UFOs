@@ -10,16 +10,17 @@
  
 When first visiting the webpage, Dana has added a header and a few paragraphs debating the idea of aliens exisiting. Below this introduction is the table from which we can search the data Dana has collected. This is an image of the top of the webpage that we have created with Dana:
 
-![UFOSightings]()
+![UFOSightings](https://github.com/stacybeauregard/UFOs/blob/main/Static/images/UFOSightings.png)
  
  
 At first glance, this webpage is overwhelmed with UFO sightings from across the country. We created several filters by which the data can be narrowed down and more manageable. In order to do this, simply input your search parameters into each text box and hit the tab button, enter, or click outside the box. This is what the table looks like when no filtering has been applied:
 
-![nofilter]()
+![nofilter](https://github.com/stacybeauregard/UFOs/blob/main/Static/images/nofilter.png)
  
  
 And this is the table after filtering by the city of "el cajon" and the state of "ca"
-![filter]()
+
+![filter](https://github.com/stacybeauregard/UFOs/blob/main/Static/images/filter.png)
  
 To reset the page and search again, you can type over the previous entries or scroll to the top of the page and click "UFO Sightings" in the upper left corner.
  
